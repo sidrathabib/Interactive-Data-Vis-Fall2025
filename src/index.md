@@ -47,6 +47,8 @@ They improve my <span style="color:#2E8B57;"><strong>focus</strong></span>,  red
   </tr>
 </table>
 
+
+
 ---
 
 ## <span style="color:#9370DB;"> Here are hobbies I want to pursue in the future </span>
