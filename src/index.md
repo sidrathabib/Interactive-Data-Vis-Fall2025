@@ -12,7 +12,7 @@ Labs:
 
 ---
 
-## <span style="color:#6B8E23;">🌿 In a world full of short-form content and constant stimulation...</span>
+## <span style="color:#6B8E23;">Interesting Times</span>
 
 In a world full of **short-form content** and constant stimulation on the internet and our devices,  I like to indulge in the pleasures of <strong style="color:#A0522D;">offline hobbies</strong>.
 
@@ -47,11 +47,31 @@ They improve my <span style="color:#2E8B57;"><strong>focus</strong></span>,  red
   </tr>
 </table>
 
-## <span style="color:#9370DB;"> Here hobbies I want to pursue in the future </span>
-### Can't do em all now, unfortunately
-<ul>
-  <li><strong>Photography</strong> – bleh </li>
-  <li><strong>Photography</strong> – bleh </li>
-  <li><strong>Photography</strong> – bleh </li>
+---
 
-</ul>
+## <span style="color:#9370DB;"> Here are hobbies I want to pursue in the future </span>
+### Can't do em all now, unfortunately
+<ol>
+  <li><strong>Felt Crafting</strong> – sewing and bright colors... want </li>
+  <li><strong>Clay</strong> – making my own trinket with clay?!? Sign me up </li>
+  <li><strong>Pipecleaner Flowers</strong> – so pretty but I have no space to keep my masterpieces. That's why I do a lot of little crafts.  </li>
+
+</ol>
+
+---
+
+## <span style="color:#9370DB;"> Here is my recent biggest achievment </span>
+<p> I saw a $100 crystal tree in the mall and told my friend,</p> 
+
+> "Are you crazy, I can make that myself for $3."
+
+<p>And I did, as per the image below </p>
+
+<br>
+
+<!-- ![crystal tree made by sid](crystal_tree.png){.center} 
+mannnnnnnnn -->
+
+<img src="crystal_tree.png" alt="crystal tree made by sid" width="300" class="center">
+
+<!-- ITS NOT CENTEREDDDD-->
